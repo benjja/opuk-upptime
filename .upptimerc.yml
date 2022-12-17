@@ -9,8 +9,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ohnepunktundkomma.org
-  # baseUrl: /your-repo-name
+  #cname: status.ohnepunktundkomma.org
+  baseUrl: /opuk-upptime
   logoUrl: https://ohnepunktundkomma.org/favicon.ico
   name: ohnepunktundkomma.org
   introTitle: "Wir sind eine offene Mastodon-Instanz, für Menschen die ohnepunktundkomma schreiben möchten."
