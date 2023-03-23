@@ -4,7 +4,7 @@
     "url": "https://ohnepunktundkomma.org",
     "icon": "https://icons.duckduckgo.com/ip3/ohnepunktundkomma.org.ico",
     "slug": "ohnepunktundkomma-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 609,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2023-03-23": 0,
       "2023-02-12": 33,
       "2023-01-23": 33,
       "2022-12-19": 15
